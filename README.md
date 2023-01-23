@@ -5,4 +5,7 @@
 
 cd Lexical-Analyzer/
 
+pip install openpyxl
+pip install pandas
+
 python main.py
